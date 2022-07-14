@@ -30,6 +30,12 @@
   - `npm start`
 - This should open up a webpage in your default browswer pointed to `localhost:3000`
 
+## What to do after this
+If you want to publish this to a githubpages.io url, try following this tutorial!
+
+https://github.co/gitname/react-gh-pages
+
+
 ## Additional Info
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
